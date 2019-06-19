@@ -1,0 +1,150 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirahmed.rk" resolutions="1x,2x" timestamp="1560946415298">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="29273669" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="431743530" ref="index"/>
+    <file name="index.css" crc="66199916" ref="index"/>
+    <file name="nomq_index.css" crc="48101898" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="1200px-icc_cricket_world_cup_2019_logo.svg.webp" crc="4153194172" seo="true" mt="1560617727000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u8313.php" crc="86085009" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fg75x157.png" crc="174423988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg75x157_2x.png" crc="114530139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0634287x215.jpg" crc="3769025296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0634287x215_2x.jpg" crc="4214074372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0476291x218.jpg" crc="157838027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0476291x218_2x.jpg" crc="3979670552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="awpi3k.jpg" crc="517529498" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="awpi3k_2x.jpg" crc="259249982" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n278x247.jpg" crc="4237187703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n278x247_2x.jpg" crc="54876758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0362280x210.jpg" crc="377761782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0362280x210_2x.jpg" crc="4099827614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0355 - copy286x214.jpg" crc="3908720198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0355 - copy286x214_2x.jpg" crc="3887287033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0501277x208.jpg" crc="337696324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0501277x208_2x.jpg" crc="3893715708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0447280x210.jpg" crc="4186849639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0447280x210_2x.jpg" crc="3870653026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edaggfs.jpg" crc="526501154" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edaggfs_2x.jpg" crc="3964585192" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg52x109.png" crc="4178502205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg52x109_2x.png" crc="90788016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n83x74.jpg" crc="3779277006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n83x74_2x.jpg" crc="4186506419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0634198x148.jpg" crc="260351829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0634198x148_2x.jpg" crc="4093093914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0476201x151.jpg" crc="4167442934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0476201x151_2x.jpg" crc="244329041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n192x170.jpg" crc="135883708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n192x170_2x.jpg" crc="4293214897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0362193x145.jpg" crc="3921588081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0362193x145_2x.jpg" crc="509814549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0355 - copy197x148.jpg" crc="4172039052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0355 - copy197x148_2x.jpg" crc="3769869073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0501191x143.jpg" crc="4162093875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0501191x143_2x.jpg" crc="276811397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0447193x145.jpg" crc="490790299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0447193x145_2x.jpg" crc="3907926523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="133112353" seo="true" mt="1560942313947" redirect="true"/>
+</manifest>
